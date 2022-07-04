@@ -1,0 +1,3 @@
+data/*
+!data/.gitkeep
+!data/KRX예선데이터/지수/dummy.txt
