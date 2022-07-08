@@ -1,3 +1,5 @@
 data/KRX예선데이터
 !data/.gitkeep
 !data/KRX예선데이터/지수/dummy.txt
+!data/external_data/.gitkeep
+data/external_data/kospi_20060102_20220701.csv
